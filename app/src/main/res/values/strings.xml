@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Labsheet-04</string>
+    <string name="editText">Name</string>
+    <string name="button">SIGN UP</string>
+    <string name="Email">Email</string>
+    <string name="Telephone">Telephone</string>
+    <string name="Password">Password</string>
+    <string name="RePassword">Re enter password</string>
+
 </resources>
